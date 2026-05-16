@@ -1,4 +1,4 @@
-import ReactJson from "react-json-view";
+import ReactJson from "@microlink/react-json-view";
 import { Copy, Download } from "lucide-react";
 import { copyJson, downloadJson } from "../utils/layoutUtils";
 
