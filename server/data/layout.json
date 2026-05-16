@@ -1,0 +1,246 @@
+{
+  "rootNodes": [
+    "artboard_1778485662755_3"
+  ],
+  "imageUrl": "https://res.cloudinary.com/dzydbgyfj/image/upload/v1778502510/Instagram_Post_1080x1080_19_iw9uqy.png",
+  "nodes": {
+    "img_1778485681535_4": {
+      "x": -25.106331170373114,
+      "y": -39.629852142916654,
+      "id": "img_1778485681535_4",
+      "nh": 1.0781748291063975,
+      "nw": 1.058390220120952,
+      "nx": -0.013076214151235997,
+      "ny": -0.036694307539737646,
+      "data": {
+        "fit": "cover",
+        "assetId": "asset_1778485681534_jl4fd6",
+        "sourceUrl": "https://res.cloudinary.com/dzydbgyfj/image/upload/v1778485682/qgi9ecexyirh7vbvij9k.png"
+      },
+      "name": "Background.png",
+      "type": "image",
+      "style": {
+        "layout": {},
+        "visual": {
+          "borderRadius": 0,
+          "opacity": 0.24
+        }
+      },
+      "width": 2032.109222632228,
+      "height": 1164.4288154349092,
+      "parentId": "artboard_1778485662755_3"
+    },
+    "text_1778486306230_8": {
+      "x": 211.2,
+      "y": 86.4,
+      "id": "text_1778486306230_8",
+      "nh": 0.3503396592170152,
+      "nw": 0.78,
+      "nx": 0.11,
+      "ny": 0.08,
+      "data": {
+        "content": "Luxury Comfort,\nSurprisingly Attainable"
+      },
+      "name": "Headline",
+      "type": "text",
+      "style": {
+        "layout": {},
+        "visual": {
+          "fill": {
+            "type": "none"
+          },
+          "color": {
+            "type": "solid",
+            "value": "#FFFFFF"
+          },
+          "fontSize": 72,
+          "fontStyle": "italic",
+          "fontFamily": "Arial",
+          "fontWeight": 700
+        }
+      },
+      "width": 1497.6000000000001,
+      "height": 378.36683195437644,
+      "parentId": "artboard_1778485662755_3"
+    },
+    "text_1778486136643_7": {
+      "x": 281.76091500752517,
+      "y": 298.4693448578478,
+      "id": "text_1778486136643_7",
+      "nh": 0.03703703703703704,
+      "nw": 0.7120318482825286,
+      "nx": 0.14675047656641935,
+      "ny": 0.2763605044980072,
+      "data": {
+        "content": "Comfort that defines modern living."
+      },
+      "name": "Subheadline",
+      "type": "text",
+      "style": {
+        "layout": {},
+        "visual": {
+          "fill": {
+            "type": "none"
+          },
+          "color": {
+            "type": "solid",
+            "value": "#FFFFFF"
+          },
+          "fontSize": 48,
+          "fontFamily": "Arial",
+          "fontWeight": 600
+        }
+      },
+      "width": 1367.101148702455,
+      "height": 40.00000000000001,
+      "parentId": "artboard_1778485662755_3"
+    },
+    "img_1778489515746_17": {
+      "x": 232.1247572712652,
+      "y": 526.8015550620104,
+      "id": "img_1778489515746_17",
+      "nh": 0.3380062769153587,
+      "nw": 0.7600000000000008,
+      "nx": 0.12089831107878396,
+      "ny": 0.4877792176500096,
+      "data": {
+        "fit": "cover",
+        "assetId": "asset_1778489515744_q47n31",
+        "sourceUrl": "https://res.cloudinary.com/dzydbgyfj/image/upload/v1778489518/mfkzgbakd77adfnbbcsv.png"
+      },
+      "name": "Product.png",
+      "type": "image",
+      "style": {
+        "layout": {},
+        "visual": {
+          "borderRadius": 0
+        }
+      },
+      "width": 1459.2000000000014,
+      "height": 365.04677906858745,
+      "parentId": "artboard_1778485662755_3"
+    },
+    "circle_1778488914968_15": {
+      "x": 192,
+      "y": 388.8,
+      "id": "circle_1778488914968_15",
+      "nh": 0.14248292500533227,
+      "nw": 0.14789099725854568,
+      "nx": 0.1,
+      "ny": 0.36,
+      "data": {
+        "shapeType": "circle"
+      },
+      "name": "Offer Badge",
+      "type": "shape",
+      "style": {
+        "layout": {},
+        "visual": {
+          "fill": {
+            "type": "solid",
+            "value": "#ec4899"
+          },
+          "stroke": {
+            "type": "solid",
+            "value": "#ec4899"
+          },
+          "strokeWidth": 2
+        }
+      },
+      "width": 283.9507147364077,
+      "height": 153.88155900575885,
+      "parentId": "artboard_1778485662755_3"
+    },
+    "text_1778489078397_16": {
+      "x": 271.31725238795997,
+      "y": 404.5565988198448,
+      "id": "text_1778489078397_16",
+      "nh": 0.13998918694820744,
+      "nw": 0.16302282390535613,
+      "nx": 0.1413110689520625,
+      "ny": 0.37458944335170813,
+      "data": {
+        "content": "20%\nOFF"
+      },
+      "name": "Discount Text",
+      "type": "text",
+      "style": {
+        "layout": {},
+        "visual": {
+          "fill": {
+            "type": "none"
+          },
+          "color": {
+            "type": "solid",
+            "value": "#FFFFFF"
+          },
+          "fontSize": 56,
+          "fontFamily": "Arial",
+          "fontWeight": 700
+        }
+      },
+      "width": 313.0038218982838,
+      "height": 151.18832190406405,
+      "parentId": "artboard_1778485662755_3"
+    },
+    "text_1778486004640_6": {
+      "x": 615.1487733223904,
+      "y": 956.9792790379693,
+      "id": "text_1778486004640_6",
+      "nh": 0.06804963433919406,
+      "nw": 0.45466173716839364,
+      "nx": 0.3203899861054117,
+      "ny": 0.8860919250351568,
+      "data": {
+        "content": "Limited time offer"
+      },
+      "name": "CTA Text",
+      "type": "text",
+      "style": {
+        "layout": {},
+        "visual": {
+          "fill": {
+            "type": "none"
+          },
+          "color": {
+            "type": "solid",
+            "value": "#FFFFFF"
+          },
+          "fontSize": 48,
+          "fontFamily": "Arial",
+          "fontWeight": 600
+        }
+      },
+      "width": 872.9505353633158,
+      "height": 73.49360508632958,
+      "parentId": "artboard_1778485662755_3"
+    },
+    "artboard_1778485662755_3": {
+      "x": 0,
+      "y": 0,
+      "id": "artboard_1778485662755_3",
+      "data": {
+        "preset": "9:16",
+        "showLabel": true,
+        "backgroundColor": "#3b82f6"
+      },
+      "name": "Instagram Post",
+      "type": "artboard",
+      "style": {
+        "layout": {},
+        "visual": {}
+      },
+      "width": 1920,
+      "height": 1080,
+      "children": [
+        "img_1778485681535_4",
+        "text_1778486306230_8",
+        "text_1778486136643_7",
+        "img_1778489515746_17",
+        "circle_1778488914968_15",
+        "text_1778489078397_16",
+        "text_1778486004640_6"
+      ]
+    }
+  }
+}
