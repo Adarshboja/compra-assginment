@@ -12,7 +12,7 @@
     "@microlink/react-json-view": "^1.31.20",
     "axios": "^1.16.1",
     "framer-motion": "^12.38.0",
-    "konva": "^9.3.22",
+    "konva": "^8.4.3",
     "lucide-react": "^0.468.0",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
